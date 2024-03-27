@@ -1,7 +1,6 @@
 # TypeScript Cheatsheet
 
-TypeScript is a superset of JavaScript that adds optional static typing and other features to the language. It helps developers write safer and more maintainable code by catching errors early in the development process. This README.md provides an overview of key concepts in TypeScript along with definitions and examples.
-
+TypeScript is a superset of JavaScript that adds optional static typing and other features to the language. It helps developers write safer and more maintainable code by catching errors early in the development process. 
 
 <img width="585" alt="Screenshot 2024-03-27 at 14 40 35" src="https://github.com/saipavansiripuram/TypeScript/assets/69411783/e2a22c03-70c5-40c7-a93c-53068d82d122">
 
